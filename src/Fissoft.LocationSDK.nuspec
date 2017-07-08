@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Fissoft.LocationSDK</id>
+    <version>$version$</version>
+    <title>高德地图SDK for Xamarin Android</title>
+    <authors>Zou Jian,Fissoft</authors>
+    <iconUrl>https://avatars2.githubusercontent.com/u/8520426</iconUrl>
+    <owners>chsword</owners>
+    <copyright>Copyright © 2017-2017</copyright>
+    <projectUrl>https://github.com/fissoft/LocationSDK</projectUrl>
+    <description>AMAP for Xamarin</description>
+    <tags>xamarin,.net,android,map</tags>
+    <dependencies />
+  </metadata>
+</package>
